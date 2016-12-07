@@ -1,7 +1,5 @@
 package controller;
 
-import bean.Article;
-import bean.Comment;
 import service.ArticleService;
 import service.CommentService;
 
